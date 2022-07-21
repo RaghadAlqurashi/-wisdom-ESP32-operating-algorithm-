@@ -24,4 +24,5 @@ Click on Tools and then Board and then choose Port and then click COM3 or any nu
 Click on File and then Examples and then choose 01 Basics and then choose Blink
 
 Click on Upload
-![image](https://user-images.githubusercontent.com/107959289/180258972-f7d7ac63-e4df-4ffa-9952-b2a2a832c146.png)
+![photo_2022-07-21_18-55-40 (2)](https://user-images.githubusercontent.com/107959289/180259773-e29f5025-2381-48a7-aeba-fb9d2c29645e.jpg)
+
